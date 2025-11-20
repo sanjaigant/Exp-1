@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No: 212224040078
-# Name:   DINESH RAGHAVENDARA
+# Reg No: 212224230244
+# Name:   sanjai ganth.B
 
 
 # AIM:
